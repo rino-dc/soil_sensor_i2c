@@ -21,11 +21,11 @@ Keterangan:
 
 Parameter yang diukur
 a. Suhu tanah
-Range measurement : -20 to 60°C
+	Range measurement : -20 to 60°C
 b. Kelembaban tanah
-Range measurement : 0 – 100%
+	Range measurement : 0 – 100%
 c. Electrical Conductivity (EC)
-Resolution: 0.01 dS/m
+	Resolution: 0.01 dS/m
 
 untuk kabelnya
 1. merah = vcc 3.3v
@@ -120,7 +120,8 @@ mulai dari buffer sampai variabel setiap parameter
 26. oke data sudah didapatkan semua...
 
 Sekian tutorial pembacaan soil sensor i2c, semoga bermanfaat, terimakasih...
-	
+
+Wassalamualaikum wr wb
 	
 	
 	
